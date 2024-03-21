@@ -1,5 +1,11 @@
-# Glx Gram
+IyBHbHggR3JhbQoKR2x4IEdyYW0gVGVsZWdyYW0gQXBwIEJlcmJhc2lzIGZs
+dXR0ZXIgbGFuanV0YW4gLyBQZW5nZ2FudGkgQXprYWdyYW0sIGRlbmdhbiBm
+ZWF0dXJlIGJhbnlhaywgUmVwb3NpdG9yeSBpbmkgdGlkYWsgZnVsbCBvcGVu
+IHNvdXJjZS4KCkppa2Ega2FsaWFuIGluZ2luIEFwcCBUZWxlZ3JhbSBGbHV0
+dGVyIFlhbmcgRnVsbCBPcGVuIFNvdXJjZSBTaWxhaGthbiBDaGVjayBSZXBv
+IEluaSBbVGVsZWdyYW1dKGh0dHBzOi8vZ2l0aHViLmNvbS9hemthZGV2L3Rl
+bGVncmFtKQ==
 
-Glx Gram Telegram App Berbasis flutter lanjutan / Pengganti Azkagram, dengan feature banyak, Repository ini tidak full open source.
-
-Jika kalian ingin App Telegram Flutter Yang Full Open Source Silahkan Check Repo Ini [Telegram](https://github.com/azkadev/telegram)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
